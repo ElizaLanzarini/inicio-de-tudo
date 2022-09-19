@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Computação</title>
+	</head>
+	<body background="Imagemsite/fundo.png">
+		<table border="0" width="900" align="center">
+			<tr>
+				<td height="10"><img src="Imagemsite/logo.png"> </td>
+				<td align="right">
+					<a href="">Home</a> |
+					<a href="quem-somos.html">Quem somos</a> |
+					<a href="contato.html">Contato</a>  |
+
+				</td>
+			</tr>
+
+			<tr>
+				<td colspan="2">
+					<img src="Imagemsite/capa.jpg"
+				</td>
+			</tr>
+
+			<tr>
+				<td colspan="2">
+					<h2>Um teste</h2>
+					<p><strong>Lorem Ipsum</strong> é simplesmente um texto fictício da indústria tipográfica e de impressão. Lorem Ipsum tem sido o texto fictício padrão da indústria desde os anos 1500, quando um impressor desconhecido pegou uma cozinha de tipos e embaralhou-a para fazer um livro de espécimes de tipos. Ele sobreviveu não apenas cinco séculos, mas também o salto para a composição eletrônica, permanecendo essencialmente inalterado. Foi popularizado na década de 1960 com o lançamento de folhas Letraset contendo passagens de Lorem Ipsum e, mais recentemente, com software de editoração eletrônica como Aldus PageMaker, incluindo versões de Lorem Ipsum.
+					</p>
+					
+				</td>
+			</tr>
+
+			<tr>
+				<td colspan="2" align="center">
+					<h4>Todos os direitos reservados</h4>
+					
+				</td>	
+			</tr>	
+		</table>		
+
+
+	</body>
+</html>
